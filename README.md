@@ -7,7 +7,7 @@
 
 <br>
 <div style="width:300px;" align=right>
-    <h2 align=center style="color:grey;" >About me<h2>
+    <p align=center style="color:grey;" >About me<p>
 </div>
 
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/)
