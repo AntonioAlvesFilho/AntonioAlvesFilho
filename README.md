@@ -2,10 +2,11 @@
 <img src="./image/notebook.jpg">
 </div>
 <h1 style="color:grey;">
-<p>Hello! I`m Antonio Alves<p>
+<p>&nbsp;&emsp;Hello! I`m Antonio Alves<p>
 </h1>
 
 <br>
+<div>
 <div style="width:300px;" align=right>
     <p align=center style="color:darkgrey;" >About me<p>
 </div>
@@ -30,3 +31,4 @@
 <br>
 
 <img src="./image/prog.gif" width=200 align=right>
+</div>
