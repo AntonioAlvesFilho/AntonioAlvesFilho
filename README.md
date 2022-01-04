@@ -7,7 +7,8 @@
 
 <br>
 
-<p align=left>About me<p>
+<h2 align=right>About me<h2>
+
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/)
 
 <br>
