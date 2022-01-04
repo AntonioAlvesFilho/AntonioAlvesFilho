@@ -13,7 +13,7 @@
 <p>&ensp;👨‍💻&ensp;Currently learning HTML/CSS/JS</p>
 <p>&ensp;💻&ensp;Planning to learn Node/React/Python🐍</p>
 <br><br>
-<div align="bottom" style="height:112">
+<div align="bottom" style="height:112;">
 
 &ensp;&ensp;&ensp;&ensp;&emsp;&ensp;Contato
 
