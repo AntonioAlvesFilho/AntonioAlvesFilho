@@ -18,9 +18,9 @@
 
 <br>
 
-<div  align="center">
+<div >
 
-<p >Contato</p>
+&ensp;&ensp;&ensp;&ensp;&emsp;Contato
 
 <a href="https://web.whatsapp.com/send?phone=+5511959070839" target="blank"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  width=100>
@@ -29,8 +29,9 @@
 <a href="mailto:antonioalves987654321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width=75>
     </a>
+<img src="./image/prog.gif" width=200 align=right>
+
 </div>
 
 <br>
 
-<img src="./image/prog.gif" width=200 align=right>
