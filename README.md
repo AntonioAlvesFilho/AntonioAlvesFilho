@@ -3,12 +3,12 @@
 <img alt="Computador" src="./image/notebook.jpg">
 </div>
 <br>
-<h1 style="color:dimgray;">
+<h1 style="color:dimgrey;">
 <p>&emsp;&emsp;Hello! I`m Antonio Alves<p>
 </h1>
 
 <br>
-<h3 style="color:dimgray;" >About me<h3>
+<h3 style="color:dimgrey;" >About me<h3>
 <p>&ensp;🌎&ensp;Brazil&emsp;| &ensp;👦&ensp;20 Y/O</p>
 <p>&ensp;👨‍💻&ensp;Currently learning HTML/CSS/JS</p>
 <p>&ensp;💻&ensp;Planning to learn Node/React/Python🐍</p>
