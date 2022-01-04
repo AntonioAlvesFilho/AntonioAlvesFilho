@@ -2,10 +2,12 @@
 <img src="./image/notebook.jpg">
 </div>
 <h1 style="color:grey;">
-Hello! I`m Antonio Alves
+<p>Hello! I`m Antonio Alves<p>
 </h1>
+
 <br>
 
+<p align=left>About me<p>
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/)
 
 <br>
