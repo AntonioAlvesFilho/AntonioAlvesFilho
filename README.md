@@ -1,10 +1,8 @@
-<div>
 <img   min-width="721px" max-width="721px" width="721px" align="center" alt="Computador" src="./image/notebook.jpg">
 <br>
-<h1 align="left" style="color:grey;">
-<p>Hello! I`m Antonio Alves<p>
+<h1 style="color:grey;">
+<p>&emsp;&emsp;Hello! I`m Antonio Alves<p>
 </h1>
-</div>
 
 <br>
     <p align=center style="color:darkgrey;" >About me<p>
