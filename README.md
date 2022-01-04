@@ -3,18 +3,15 @@
 <img alt="Computador" src="./image/notebook.jpg">
 </div>
 <br>
-<h1 style="color:grey;">
+<h1 style="color:darkgrey;">
 <p>&emsp;&emsp;Hello! I`m Antonio Alves<p>
 </h1>
 
 <br>
-    <p align=center style="color:darkgrey;" >About me<p>
-&emsp;<div>
-&emsp;
+    <h3 style="color:darkgrey;" >About me<h3>
 
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/)
 
-</div>
 <br>
 
 <div  align="center">
