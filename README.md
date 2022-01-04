@@ -1,4 +1,6 @@
-<img src="./image/notebook.jpg" text-align="center">
+<div   text-align="center">
+<img src="./image/notebook.jpg">
+</div?>
 
 <br>
 
