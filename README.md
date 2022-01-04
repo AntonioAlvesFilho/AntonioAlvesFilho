@@ -6,7 +6,7 @@
 </h1>
 
 <br>
-<div align=right>
+<div style="width:300px;" align=right>
     <h2 align=center style="color:grey;" >About me<h2>
 </div>
 
