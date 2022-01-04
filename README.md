@@ -1,15 +1,14 @@
-<div align="center">
-<img src="./image/notebook.jpg">
-</div>
+<div>
+<img   min-width="721px" max-width="721px" width="721px" align="right" alt="Computador" src="./image/notebook.jpg">
+
 <h1 style="color:grey;">
 <p>&nbsp;&emsp;Hello! I`m Antonio Alves<p>
 </h1>
+</div>
 
 <br>
 <div>
-<div style="width:300px;" align=right>
     <p align=center style="color:darkgrey;" >About me<p>
-</div>
 
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/)
 
