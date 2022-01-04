@@ -22,7 +22,7 @@
 
 <p >Contato</p>
 
-<a href="tell:+5511959070839"> 
+<a href="https://web.whatsapp.com/send?phone=+5511959070839"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank" width=100>
 </a>
         
