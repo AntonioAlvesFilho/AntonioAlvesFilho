@@ -3,8 +3,8 @@
 <img alt="Computador" src="./image/notebook.jpg">
 </div>
 <br>
-<h1 style="color:grey;">
-<p>&emsp;&emsp;Hello! I`m Antonio Alves<p>
+<h1>
+<p style="color:grey;">&emsp;&emsp;Hello! I`m Antonio Alves<p>
 </h1>
 
 <br>
