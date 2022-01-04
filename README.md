@@ -7,11 +7,13 @@
 </div>
 
 <br>
-<div>
     <p align=center style="color:darkgrey;" >About me<p>
+&emsp;<div>
+&emsp;
 
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/)
 
+</div>
 <br>
 
 <div  align="center">
@@ -30,4 +32,3 @@
 <br>
 
 <img src="./image/prog.gif" width=200 align=right>
-</div>
