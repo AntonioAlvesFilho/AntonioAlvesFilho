@@ -13,14 +13,9 @@
 <p>&ensp;👨‍💻&ensp;Currently learning HTML/CSS/JS</p>
 <p>&ensp;💻&ensp;Planning to learn Node/React/Python🐍</p>
 <br><br>
-
-[![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/) ![Antonio](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&hide=html&layout=compact=true&theme=dark)
-
-<br>
-
 <div >
 
-&ensp;&ensp;&ensp;&ensp;&emsp;Contato
+&ensp;&ensp;&ensp;&ensp;&emsp;&ensp;Contato
 
 <a href="https://web.whatsapp.com/send?phone=+5511959070839" target="blank"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  width=100>
@@ -33,5 +28,9 @@
 
 </div>
 
+[![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/) ![Antonio](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&hide=html&layout=compact=true&theme=dark)
+
 <br>
+
+
 
