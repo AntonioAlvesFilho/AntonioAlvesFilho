@@ -23,8 +23,7 @@
         
 <a href="mailto:antonioalves987654321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width=75>
-    </a>
-<img src="./image/prog.gif" width=200 align=right>
+    </a><img src="./image/prog.gif" width=200 align=right>
 
 </div>
 
