@@ -26,4 +26,4 @@
 </div>
 <br><br><br><br><br>
 
-[![GitHubStats](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/) ![LanguageStats](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&hide=html&layout=compact=true&theme=dark)|
+[![GitHubStats](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/) ![LanguageStats](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&hide=html&layout=compact=true&theme=dark)
