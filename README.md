@@ -26,4 +26,4 @@
 <br><br><br><br><br>
 
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/) 
-    ![Antonio](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&hide=html&layout=compact=true&theme=dark)
+    ![Antonio](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&&layout=compact=true&theme=dark)
