@@ -6,7 +6,7 @@
 </h1>
 <br>
 <h3 style="color:darkgrey;" >About me<h3>
-<p>&ensp;🌎&ensp;Brazil&emsp;| &ensp;👦&ensp;20 Y/O</p>
+<p>&ensp;🌎&ensp;Brazil&emsp;| &ensp;👦&ensp;21 Y/O</p>
 <p>&ensp;👨‍💻&ensp;Currently learning HTML/CSS/JS</p>
 <p>&ensp;💻&ensp;Planning to learn Node/React/Python🐍</p>
 <br>
