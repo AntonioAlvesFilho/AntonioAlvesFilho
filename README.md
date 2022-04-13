@@ -9,7 +9,16 @@
 <p>&ensp;🌎&ensp;Brazil&emsp;| &ensp;👦&ensp;21 Y/O</p>
 <p>&ensp;👨‍💻&ensp;Currently learning HTML/CSS/JS</p>
 <p>&ensp;💻&ensp;Planning to learn Node/React/Python🐍</p>
-<br>
+<br><br>
+    
+<p style="color:darkgrey;" >Hard Skills</p>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>	
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node"/></code>
+    
+<br><br>
 <div align="bottom">
 
 &ensp;&ensp;&ensp;&ensp;&emsp;&ensp;Contato
@@ -23,7 +32,7 @@
 </a><img src="./image/prog.gif" width=200 align=right>
 
 </div>
-<br><br><br><br><br>
+<br><br><br><br>
 
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/) 
     ![Antonio](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&&layout=compact=true&theme=dark)
