@@ -7,17 +7,30 @@
 <br>
 <h3 style="color:darkgrey;" >About me<h3>
 <p>&ensp;🌎&ensp;Brazil&emsp;| &ensp;👦&ensp;21 Y/O</p>
-<p>&ensp;👨‍💻&ensp;Currently learning React Responsive ⚛︎</p>
-<p>&ensp;💻&ensp;Planning to be Full-Stack</p>
-<br><br>
+<p>&ensp;👨‍💻&ensp;Currently learning: PHP<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="node"/></code> - Laravel <code><img style="margin-top: 5px" height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="node"/></code>, Dart<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="node"/></code> - Flutter <code><img style="margin-top: 5px" height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="node"/></code> <br><br>
     
 <p style="color:darkgrey;" >&ensp;&ensp;&ensp;&ensp;&emsp;&ensp;Hard Skills</p>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+
+
+<div style="display: flex; flex-direction: column">
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/></code>
+<code><img  style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>
+<code><img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="CSS"/></code>
+</div>
+<div style="display: flex; flex-direction: column">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>	
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node"/></code>
-    
+<code><img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+</div>
+<div style="display: flex; flex-direction: column">
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="node"/></code>
+<code><img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="node"/></code>
+</div>
+<div style="display: flex; flex-direction: column">
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="node"/></code>
+<code><img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="node"/></code>
+</div>
+</div>
 <br><br>
 <div align="bottom">
 
