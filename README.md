@@ -10,6 +10,7 @@
 <p>&ensp;👨‍💻&ensp;Currently learning: PHP<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="node"/></code> - Laravel <code><img style="margin-top: 5px" height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="node"/></code>, Dart<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="node"/></code> - Flutter <code><img style="margin-top: 5px" height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="node"/></code> <br><br>
     
 <p style="color:darkgrey;" >&ensp;&ensp;&ensp;&ensp;&emsp;&ensp;Hard Skills</p>
+<br>
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
 
 
