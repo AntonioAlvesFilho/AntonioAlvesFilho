@@ -11,7 +11,7 @@
     
 <p style="color:darkgrey;" >&ensp;&ensp;&ensp;&ensp;&emsp;&ensp;Hard Skills</p>
 <br>
-<div style="display:flex; flex-direction: row; justify-content: space-around;">
+<div style="display:flex; flex-direction:row; justify-content:space-around;">
 
 
 <div style="display: flex; flex-direction: column">
