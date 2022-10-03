@@ -1,3 +1,6 @@
+<div style="max-width: 800px">
+
+
 <div  align="center">
 <img alt="Computador" src="./image/notebook.jpg">
 </div>
@@ -11,7 +14,7 @@
     
 <p style="color:darkgrey;" >&ensp;&ensp;&ensp;&ensp;&emsp;&ensp;Hard Skills</p>
 <br>
-<div style="display:flex; flex-direction:row; justify-content:space-around;">
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
 
 
 <div style="display: flex; flex-direction: column">
@@ -25,12 +28,19 @@
 </div>
 <div style="display: flex; flex-direction: column">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="node"/></code>
-<code><img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="node"/></code>
+<code><img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" alt="laravel"/></code>
+<code><img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="laravel"/></code>
 </div>
 <div style="display: flex; flex-direction: column">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="node"/></code>
 <code><img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="node"/></code>
 </div>
+<div style="display: flex; flex-direction: column">
+<code><img height="40" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/aws.svg" alt="node"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="node"/></code>
+
+</div>
+
 </div>
 <br><br>
 <div align="bottom">
@@ -50,3 +60,4 @@
 
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/) 
     ![Antonio](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&&layout=compact=true&theme=dark)
+</div>
