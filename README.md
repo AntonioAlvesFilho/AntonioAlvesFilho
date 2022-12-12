@@ -1,20 +1,20 @@
-<div style="max-width: 800px">
+<div style="color: darkgrey; max-width: 800px; background-color: white; padding: 40px">
 
 
 <div  align="center">
 <img alt="Computador" src="./image/notebook.jpg">
 </div>
 <br>
-<h1 style="color:darkgrey;">&emsp;&emsp;Hello! I`m Antonio Alves
+<h1 align="center">Hello! I`m Antonio Alves
 </h1>
 <br>
-<h3 style="color:darkgrey;" >About me<h3>
-<p>&ensp;🌎&ensp;Brazil&emsp;| &ensp;👦&ensp;21 Y/O</p>
-<p>&ensp;👨‍💻&ensp;Currently learning: PHP<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="node"/>- Laravel <img style="margin-top: 5px" height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="node"/>, Dart<img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="node"/> - Flutter <img style="margin-top: 5px" height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="node"/> <br><br>
-    
-<p style="color:darkgrey;" >&ensp;&ensp;&ensp;&ensp;&emsp;&ensp;Hard Skills</p>
+<h3>About me<h3>
+<p>🌎&ensp;Brazil&emsp;| &ensp;👦&ensp;21 Y/O</p>
 <br>
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
+    
+<p align='center'>Hard Skills</p>
+<br>
+<div style="display: flex; flex-direction: row; justify-content: space-around; margin: 30px">
 
 
 <div style="display: flex; flex-direction: column">
@@ -22,11 +22,12 @@
 <img  style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
 <img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="CSS"/>
 </div>
-<div style="display: flex; flex-direction: column">
+<div style="display: flex; gap: 10px">
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
 <img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
 </div>
 <div style="display: flex; flex-direction: column">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php"/>
 <img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" alt="laravel"/>
 <img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="laravel"/>
 </div>
@@ -41,10 +42,16 @@
 </div>
 
 </div>
-<br><br>
-<div align="bottom">
 
-&ensp;&ensp;&ensp;&ensp;&emsp;&ensp;Contact
+<p><p>&ensp;👨‍💻&ensp;Currently learning: <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="node"/> and <img style="margin-top: 5px" height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="node"/> </p>
+
+<p>&ensp;<img src='https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg' height='12'>&ensp;English Level: Intermediary - B1</p>
+
+
+<br>
+<div style='display: flex; justify-content: space-around; width: 60%'>
+<h2>&ensp;Contact &ensp; &ensp; &ensp;</h2>
+
 
 <a href="https://web.whatsapp.com/send?phone=+5511959070839" target="blank"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  width=100>
@@ -52,9 +59,10 @@
         
 <a href="mailto:antonioalves987654321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width=75>
-</a><img src="./image/prog.gif" width=200 align=right>
-
+</a>
 </div>
+<img src="./image/prog.gif" width=200 align=right>
+
 <br><br><br><br><br>
 
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/) 
