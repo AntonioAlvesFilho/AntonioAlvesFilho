@@ -26,11 +26,13 @@
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
 <img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
 </div>
+    <img src="./image/prog.gif" width=200 align=right>
 <div style="display: flex; flex-direction: column">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php"/>
 <img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" alt="laravel"/>
 <img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="laravel"/>
 </div>
+    
 <div style="display: flex; flex-direction: column">
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="node"/>
 <img style="margin-top: 5px" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="node"/>
@@ -43,11 +45,11 @@
 
 </div>
 
-<p><p>&ensp;👨‍💻&ensp;Currently learning: <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="node"/> and <img style="margin-top: 5px" height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="node"/> </p>
+<p>&ensp;👨‍💻&ensp;Currently learning: <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="node"/> and <img style="margin-top: 5px" height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="node"/></p>
 
 <p>&ensp;<img src='https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg' height='12'>&ensp;English Level: Intermediary - B1</p>
 
-
+   
 <br>
 <div style='display: flex; justify-content: space-around; width: 60%'>
 <h2>&ensp;Contact &ensp; &ensp; &ensp;</h2>
@@ -61,10 +63,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width=75>
 </a>
 </div>
-<img src="./image/prog.gif" width=200 align=right>
 
 <br><br><br><br><br>
 
 [![Antonio](https://github-readme-stats.vercel.app/api?username=AntonioAlvesFilho&theme=dark&fault&show_icons=true)](https://github.com/AntonioAlvesFilho/) 
-    ![Antonio](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&&layout=compact=true&theme=dark)
+   &ensp; ![Antonio](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvesFilho&&layout=compact=true&theme=dark)
 </div>
