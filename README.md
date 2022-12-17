@@ -54,7 +54,7 @@
 <h2>&ensp;Contact &ensp; &ensp; &ensp;</h2>
 
 
-<a href="https://web.whatsapp.com/send?phone=+5511959070839" target="blank"> 
+<a href="https://web.whatsapp.com/send?phone=+5511959070839" target="_blank"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  width=100>
 </a>
         
