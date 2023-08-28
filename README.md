@@ -42,7 +42,7 @@
 
 <p>&ensp;👨‍💻&ensp;Currently learning: <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="node"/> and <img style="margin-top: 5px" height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="node"/></p>
 
-<p>&ensp;<img src='https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg' height='12'>&ensp;English Level: Intermediary - B1</p>
+<p>&ensp;<img src='https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg' height='12'>&ensp;English Level: Intermediary</p>
 
    
 <br>
